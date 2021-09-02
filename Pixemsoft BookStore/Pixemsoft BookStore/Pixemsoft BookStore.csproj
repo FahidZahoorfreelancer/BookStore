@@ -5,4 +5,13 @@
     <RootNamespace>Pixemsoft_BookStore</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+    <Folder Include="wwwroot\js%27\" />
+  </ItemGroup>
+
 </Project>
